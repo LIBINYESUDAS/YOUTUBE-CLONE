@@ -131,3 +131,6 @@ border-top: 4px solid #ccc;
     color: white;
     border-color: #EEE;
 }
+.category:last-child {
+    margin-right: 0;
+}
